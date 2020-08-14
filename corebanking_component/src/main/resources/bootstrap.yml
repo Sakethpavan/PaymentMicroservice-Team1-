@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: corebanking
+  cloud:
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      token: s.YMRSuFL051BNNTLWb9Lgd26Z

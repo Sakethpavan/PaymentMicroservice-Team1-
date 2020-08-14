@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: forex
+  cloud:
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      token: s.YMRSuFL051BNNTLWb9Lgd26Z
+      
+
+server:
+  port: 8003
